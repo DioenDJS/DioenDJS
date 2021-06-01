@@ -18,7 +18,7 @@
 
 - Entusiasta em tecnologias de desenvolvimento web.
 
-- 👀  Amo resolver problemas com `algoritmos` e solucinar desafios<br /> aprendi lógica de programação 
+- 👀  Amo resolver problemas com `algoritmos` e solucionar desafios<br /> aprendi lógica de programação 
 com `Java` :computer: :coffee:<br /> e hoje atualmente estudo ``Javascript`` e estou cursando<br /> `Análise e Desenvolvimento de Sistema`
 na Faculdade de Tecnologia `Senac` :mortar_board: 
 
