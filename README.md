@@ -50,7 +50,7 @@ na Faculdade de Tecnologia `Senac` :mortar_board:
   &nbsp;
   
   <img margin-top="100" height="216" src="https://github-readme-stats.vercel.app/api?username=DioenDJS&show_icons=true&theme=radical" />
-  <img margin-top="100"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioenDJS&layout=compact&langs_count=16&theme=dracula" />
+  <img margin-top="100"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioenDJS&layout=compact&langs_count=16&theme=dracula" align="right"/>
  </div>
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DioenDJS&show_icons=true&theme=radical)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DioenDJS&layout=compact&langs_count=16&theme=dracula) -->
 
