@@ -1,6 +1,10 @@
 # Diovane Luis Pacheti Nunes
 
-#### Connect With me :
+<img align="right" alt="Diovane-Linkedin" height="350" width="400" 
+  src="https://github.com/DioenDJS/Projeto_Senac_Faculdade/blob/main/img/DioenDGithub.png?raw=true" 
+  style="max-width:100%;" />
+  
+### Connect With me :
 
 <a href="https://www.linkedin.com/in/diovane-luis-pacheti-nunes-5a1362211" target="blank">
   <img align="center" alt="Diovane-Linkedin" height="30" width="40" 
@@ -35,11 +39,14 @@ na Faculdade de Tecnologia `Senac` :mortar_board:
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
   style="max-width:100%;">
   
-___
-<div>
+  
+ 
+
+
+ 
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DioenDJS&show_icons=true&theme=radical)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DioenDJS&layout=compact&langs_count=16&theme=dracula)
-</div>
+
 
 
 <!---
