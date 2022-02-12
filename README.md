@@ -41,11 +41,18 @@ na Faculdade de Tecnologia `Senac` :mortar_board:
   
   
  
+&nbsp; 
+&nbsp; 
+&nbsp; 
 
-
- 
+ <div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DioenDJS&show_icons=true&theme=radical)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DioenDJS&layout=compact&langs_count=16&theme=dracula)
+  &nbsp;
+  
+  <img margin-top="100" height="216" src="https://github-readme-stats.vercel.app/api?username=DioenDJS&show_icons=true&theme=radical" />
+  <img margin-top="100"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioenDJS&layout=compact&langs_count=16&theme=dracula" />
+ </div>
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DioenDJS&show_icons=true&theme=radical)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DioenDJS&layout=compact&langs_count=16&theme=dracula) -->
 
 
 
