@@ -36,10 +36,10 @@ na Faculdade de Tecnologia `Senac` :mortar_board:
   style="max-width:100%;">
   
 ___
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DioenDJS&show_icons=true&theme=radical)
-
-
-
+<div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DioenDJS&show_icons=true&theme=radical)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DioenDJS&layout=compact&langs_count=16&theme=dracula)
+</div>
 
 
 <!---
