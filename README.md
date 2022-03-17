@@ -20,7 +20,7 @@
 
 <a href="https://www.instagram.com/diovaneluispachetinunes/" target="blank">
   <img align="center" alt="Diovane-Instagram" height="30" width="30" 
-  src="https://image.flaticon.com/icons/png/512/2111/2111463.png" 
+  src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" 
   style="max-width:100%;">
 </a>
 
