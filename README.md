@@ -18,7 +18,7 @@
   style="max-width:100%;">
 </a>
 
-<a href="https://www.instagram.com/diovaneluispachetinunes/" target="blank">
+<a href="https://www.instagram.com/dioendjs/" target="blank">
   <img align="center" alt="Diovane-Instagram" height="30" width="30" 
   src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" 
   style="max-width:100%;">
