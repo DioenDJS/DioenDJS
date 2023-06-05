@@ -37,6 +37,8 @@ na Faculdade de Tecnologia `Senac` :mortar_board:
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
   style="max-width:100%;"><img align="center" alt="Diovane-Linkedin" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+  style="max-width:100%;"><img align="center" alt="Diovane-Linkedin" height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
   style="max-width:100%;">
   
   
